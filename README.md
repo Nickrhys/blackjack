@@ -8,3 +8,7 @@ A little blackjack game you can play in irb
 - `require './blackjack.rb'`
 
 - `BJ.blackjack`
+
+#TODO
+- convert to instance methods
+- use only one deck
